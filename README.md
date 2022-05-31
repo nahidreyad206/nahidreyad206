@@ -1,5 +1,5 @@
 ![I am a Website developer](https://appsmaventech.com/assets/images/blog/the-future-of-web-development.png)
-### Hi there 👋, my name is Nahid Hasan
+### Hi there 👋, I am Nahid Hasan
 #### I am a Website developer
 
 
